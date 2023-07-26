@@ -14,7 +14,6 @@ Since google removed access to less secure apps from security
 
 follow the following step to achieve the same:
 
-Go to 'Manage Your Google Account' ----> 'Security' ----> Turn On 2 Step Verification ----> Enter '2 Step Verification'   
-----> click on 'App passwords' ----> click on 'select app' ----> select 'other' ----> give any name (Let's say web) ----> click 'Generate'
+Go to 'Manage Your Google Account' ----> 'Security' ----> Turn On 2 Step Verification ----> Enter '2 Step Verification' ----> click on 'App passwords' ----> click on 'select app' ----> select 'other' ----> give any name (Let's say web) ----> click 'Generate'
 
 Use the generated password as login passkey in the code.
